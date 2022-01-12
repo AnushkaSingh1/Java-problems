@@ -20,3 +20,4 @@ public class Main
       }
    }
 }
+//Write a program in Java to print the Floyd's Triangle.
