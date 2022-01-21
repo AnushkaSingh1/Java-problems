@@ -1,3 +1,5 @@
+//Write a Java program to cyclically rotate a given array clockwise by two.
+
 import java.util.Arrays;
  
 class Main
