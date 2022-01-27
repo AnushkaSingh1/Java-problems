@@ -33,3 +33,9 @@ public class Main
         System.out.print(a[n - 1]);
     }
 }
+
+
+
+//Write a program to sort a given array in reverse order 
+//input: 1 44 1 22 3 4 66 
+//Output: 1 1 3 4 22 44 66 
