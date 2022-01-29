@@ -59,3 +59,23 @@ public class Main{
      scan.close();
   }
 }
+
+
+
+
+
+//Write a program to find the sum of first and last digit of a number, second and second last digit and consecutively. 
+
+//example 
+
+//input 12345678 
+
+//output: 
+
+//1+8=9 
+
+//2+7=9 
+
+//3+6=9 
+
+//4+5=9 
