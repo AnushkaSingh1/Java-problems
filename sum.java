@@ -61,7 +61,7 @@ public class Main{
 }
 
 
-
+//
 
 
 //Write a program to find the sum of first and last digit of a number, second and second last digit and consecutively. 
