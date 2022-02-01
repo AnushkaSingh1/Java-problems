@@ -53,3 +53,5 @@ public static void main(String[] args) {
     }
 
 }
+
+//Write a Java method to check whether a string is a valid password.  
