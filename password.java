@@ -58,3 +58,4 @@ public static void main(String[] args) {
 //Password rules: 
 //A password must have at least ten characters. 
 //A password consists of only letters and digits.
+//A password must contain at least two digits. 
