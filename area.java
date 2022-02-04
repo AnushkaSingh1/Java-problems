@@ -15,3 +15,20 @@ class Rectangle {
         System.out.println(2 * (breadth + length));
     }
 }
+class Square extends Rectangle {
+    public Square(double side) {
+        super(side, side);
+    }
+}
+
+
+public class Main {
+    public static void main(String[] args) {
+        Rectangle rectangle = new Rectangle(10, 5);
+        Rectangle square = new Square(10);
+        rectangle.area();
+        rectangle.perimeter();
+        System.out.println();
+        square.area();
+        square.perimeter();
+    }
