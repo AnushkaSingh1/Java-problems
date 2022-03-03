@@ -109,4 +109,4 @@ Scanner scan=new Scanner(System.in);
 
 //Update a student 
 
-/////Note: this assignment has to be done by using ArrayList
+//Note: this assignment has to be done by using ArrayList
