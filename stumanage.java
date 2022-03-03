@@ -75,3 +75,38 @@ Scanner scan=new Scanner(System.in);
         }
     }
 }
+
+
+
+
+Create a student management system (menu driven) in which you will be creating various object of student class. The student class must have following attributes and functions: 
+
+Name 
+
+Age 
+
+Reg.no (preferably auto generated in a sequence for example 202101 then 202102  and so on) 
+
+Max marks (static) 
+
+Marks obtained 
+
+Void setStudent() 
+
+Void getStudent() 
+
+Void updateStudent() //having option to update age/marks 
+
+Now you are required to perform following operations: 
+
+Add a student 
+
+Delete a student 
+
+Show all student 
+
+Show a particular student 
+
+Update a student 
+
+Note: this assignment has to be done by using ArrayList
